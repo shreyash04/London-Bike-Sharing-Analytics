@@ -1,8 +1,11 @@
-<h3 align="center">London Bike Sharing Analytics</h3>
+<a name="readme-top"></a>
 
-## About The Project
-[![Tableau Visualization Screenshot][viz-screenshot]]
+<h1 align="center">London Bike Sharing Analytics</h1>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[viz-screenshot]: images/London Bike Analytics.png
+<br></br>
+## Dataset: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset  
+<br></br>
+## Tableau Visualization Screenshot
+<img src="https://github.com/shreyash04/London-Bike-Sharing-Analytics/blob/main/London%20Bike%20Analytics.png">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
